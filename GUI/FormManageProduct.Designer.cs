@@ -68,8 +68,9 @@ namespace GUI
             btn_productRefresh.UseVisualStyleBackColor = true;
             btn_productRefresh.Click += btn_productRefresh_Click;
             // 
-            // btn_category
-            // 
+            // btn_category////
+            //
+            //
             // Bố trí nút tính năng bổ sung nối tiếp khoảng trống trống giữa Delete và Refresh
             btn_category.Location = new Point(1228, 12);
             btn_category.Margin = new Padding(6, 8, 6, 8);
