@@ -33,7 +33,7 @@ namespace GUI
             ((System.ComponentModel.ISupportInitialize)(this.dgvInvoiceDetails)).BeginInit();
             this.SuspendLayout();
             // 
-            // lblTitleLeft
+            // lblTitleLeft//
             // 
             this.lblTitleLeft.AutoSize = true;
             this.lblTitleLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

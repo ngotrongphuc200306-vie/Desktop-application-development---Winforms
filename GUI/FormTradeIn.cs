@@ -20,7 +20,7 @@ namespace GUI
         {
             LoadComboBoxReasons();
         }
-
+        //
         // Cập nhật: Thêm các cột mới vào DataGridView theo mẫu
         private void SetupDataGridView()
         {
